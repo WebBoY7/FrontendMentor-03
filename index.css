@@ -430,8 +430,9 @@ body{
     padding: 0.5rem 3rem;
     font-family: 'Alata', sans-serif;
     letter-spacing: 0.5rem;
+    transition: 300ms;
 }
-.see-all:active{
+.see-all:hover{
     background: black;
     color: var(--clr-White);
     border: 1.5px solid black;
