@@ -432,7 +432,7 @@ body{
     letter-spacing: 0.5rem;
     transition: 300ms;
 }
-.see-all:hover{
+.see-all:focus{
     background: black;
     color: var(--clr-White);
     border: 1.5px solid black;
