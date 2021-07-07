@@ -504,7 +504,7 @@ body{
     color: var(--clr-White);
 }
 /* desktop */
-@media(min-width:1440px){
+@media(min-width:850px){
     .mobile{
         display: none;
     }
